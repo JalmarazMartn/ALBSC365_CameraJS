@@ -1,0 +1,23 @@
+{
+  "id": "a46aff52-8a89-4e8e-81cf-cf309b141518",
+  "name": "Camera js",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50170
+  },
+  "runtime": "2.1"  
+}
